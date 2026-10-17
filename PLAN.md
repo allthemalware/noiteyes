@@ -7,18 +7,14 @@
 > item 6 is done. Item 4 (community-doc intake) was executed 2026-07-16.
 > Kept for provenance only.
 
-NOTE: written as a handoff document — the session is being transferred to
-another machine. The portable project state lives in /home/voyd/git/noiteyes;
-this file should be copied into that directory (e.g. as PLAN.md) so it
-travels with the repo. The project README.md covers everything up to and
-including the verified transcription; the findings below from the final
-analysis phase are recorded ONLY here so far (plan mode prevented updating
-the README).
+NOTE: the project README.md covers everything up to and including the
+verified transcription; the findings below from the initial analysis phase
+are recorded here for historical reference.
 
 ## Context
 
 Goal: crack (or decisively characterize) the unsolved Eye Messages cipher
-from Noita. Ground rule from the user: verify everything from primary data;
+from Noita. Ground rule: verify everything from primary data;
 community material is "secondary truth" to be re-derived before use.
 
 State: we independently transcribed all 9 messages from 1x pixel-art sheets
